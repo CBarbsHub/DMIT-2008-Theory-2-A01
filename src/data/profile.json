@@ -32,25 +32,26 @@
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/CBarbsHub"
       },
       {
         "ariaLabel": "linkedin profile",
-        "screenReaderLabel": "Linkedin Profile",
+        "screenReaderLabel": "LinkedIn Profile",
         "icon": "ri:linkedin-box-fill",
         "url": "https://www.linkedin.com/in/mariacharisbarbosa/"
       },
-    
+      {
+        "ariaLabel": "portfolio website",
+        "screenReaderLabel": "Portfolio Website",
+        "icon": "ri:global-line",
+        "url": "https://charisbarbosa.com/"
+      }
     ],
-    "supportLink": {
-      "url": "https://charisbarbosa.com/",
-      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
-      "imageAlt": "Visit my portfolio"
-    },
     "image": {
       "src": "/me.webp",
       "alt": "photo of Charis Barbosa"
     }
+  
   },
   "about": {
     "title": "About me",
@@ -76,7 +77,7 @@
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://https://www.linkedin.com/in/mariacharisbarbosa/"
+        "url": "https:///www.linkedin.com/in/mariacharisbarbosa/"
       },
       {
         "label": "Github",
