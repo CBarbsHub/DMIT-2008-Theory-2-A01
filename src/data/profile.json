@@ -19,14 +19,14 @@
     "nationality": "Filipino",
     "publisherName": "Charis Barbosa",
     "sameAs": [
-      "https://www.linkedin.com/in/mariacharisbarbosa",
+      "https://www.linkedin.com/in/mariacharisbarbosa/",
       "https://github.com/CBarbsHub"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Charis Barbosa",
+    "summary": "a Digital & Graphic Designer with over 10 years of experience in branding and visual design, expanding into web design and UI/UX",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
@@ -38,23 +38,18 @@
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/mariacharisbarbosa/"
       },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
-      }
+    
     ],
     "supportLink": {
-      "url": "https://ko-fi.com/M4M71O34X",
+      "url": "https://charisbarbosa.com/",
       "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
-      "imageAlt": "Buy Me a Coffee at ko-fi.com"
+      "imageAlt": "Visit my portfolio"
     },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "photo of Charis Barbosa"
     }
   },
   "about": {
