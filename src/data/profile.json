@@ -70,21 +70,17 @@
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "hello@charisbarbosa.com",
+    "location": "Edmonton, Alberta",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://https://www.linkedin.com/in/mariacharisbarbosa/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://github.com/CBarbsHub"
       }
     ]
   },
