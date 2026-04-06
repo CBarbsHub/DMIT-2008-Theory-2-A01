@@ -40,10 +40,10 @@
         "icon": "ri:linkedin-box-fill",
         "url": "https://www.linkedin.com/in/mariacharisbarbosa/"
       },
-      {
+           {
         "ariaLabel": "portfolio website",
         "screenReaderLabel": "Portfolio Website",
-        "icon": "ri:global-line",
+        "icon": "ri:earth-line",
         "url": "https://charisbarbosa.com/"
       }
     ],

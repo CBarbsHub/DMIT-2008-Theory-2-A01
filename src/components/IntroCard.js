@@ -45,6 +45,7 @@ export default function IntroCard({ intro }) {
                             <span className="sr-only">Easter egg button</span>
                         </Button>
                     </Tooltip>
+                    {supportLink && (
                     <a href={supportLink.url} rel="noreferrer" target="_blank"
                     ><Image
                             height={36}
@@ -52,8 +53,9 @@ export default function IntroCard({ intro }) {
                             src={supportLink.imageSrc}
                             alt={supportLink.imageAlt}
                             width={127}
-                        /></a
-                    >
+                        /></a>
+                    )}
+                    
                 </div>
             </div>
             <Image
