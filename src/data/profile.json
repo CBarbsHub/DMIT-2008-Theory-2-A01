@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Charis Barbosa - Digital and Graphic Designer",
+    "description": "I'm a Digital & Graphic Designer with over 10 years of experience in branding and visual design. I'm currently expanding into web design and UI/UX, focusing on creating designs that are both clear and easy to use. I have a strong passion for typography and layout, and I enjoy crafting designs that are not only visually appealing but also highly functional. My goal is to create designs that effectively communicate the intended message while providing an enjoyable user experience.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
       "frameworkName": "React",
       "frameworkUrl": "https://react.dev/",
-      "author": "AI under the guidance of DanG-IT Professional"
+      "author": "Charis Barbosa"
     }
   },
   "seo": {
