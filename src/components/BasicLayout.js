@@ -12,7 +12,7 @@ export default function BasicLayout({
   const image =
     page === "travel"
       ? `${origin}/globe_preview.webp`
-      : `${origin}/og-image.png`;
+      : `${origin}/cb-logo-og.png`;
   const sameAs = Array.isArray(seoProfile?.sameAs) ? seoProfile.sameAs : [];
 
   const schema =
@@ -23,7 +23,7 @@ export default function BasicLayout({
           name: seoProfile?.personName || "",
           url: origin,
           sameAs,
-          image: `${origin}/og-image.png`,
+          image: `${origin}/cb-logo-og.png`,
           jobTitle: seoProfile?.jobTitle || "",
           worksFor: {
             "@type": "Organization",
@@ -48,7 +48,7 @@ export default function BasicLayout({
           },
           headline: title || title,
           description: description || title,
-          image: `${origin}/og-image.png`,
+          image: `${origin}/cb-logo-og.png`,
           author: {
             "@type": "Person",
             name: seoProfile?.personName || "",
@@ -60,7 +60,7 @@ export default function BasicLayout({
             name: seoProfile?.publisherName || seoProfile?.personName || "",
             logo: {
               "@type": "ImageObject",
-              url: `${origin}/og-image.png`,
+              url: `${origin}/cb-logo-og.png`,
             },
           },
           datePublished: pubDate || new Date().toISOString(),
@@ -82,13 +82,13 @@ export default function BasicLayout({
         <meta property="og:description" content={description} />
         <meta property="og:type" content="website" />
         <meta property="og:url" content={origin} />
-        <meta property="og:image" content={image || `${origin}/og-image.png`} />
+        <meta property="og:image" content={image || `${origin}/cb-logo-og.png`} />
 
         {/* Twitter Card Tags */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={image || `${origin}/og-image.png`} />
+        <meta name="twitter:image" content={image || `${origin}/cb-logo-og.png`} />
 
         <link rel="preconnect" href="https://cdn.fontshare.com" />
         <link rel="canonical" href={origin} />
